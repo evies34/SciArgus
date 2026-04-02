@@ -1,20 +1,20 @@
-Pérez-Guillén, Cristina
-Techel, Frank
-Viallon-Galinier, Léo
-Herla, Florian
-Ulivieri, Giacomo
-Turquet, Antoine
-Johnson, Jeffrey B.
-Strapazzon, Giacomo
-Schimmel, Andreas
-Watson, Leighton
-Vilajosana, Ignasi
-Suriñach, Eva
-Marchetti, Emanuele
-Schweizer, Jürg
-van Herwijnen, Alec
-Mitterer, Christoph
-Fischer, Jan-Thomas
-Haegeli, Pascal
-Matoza, Robin S.
-Fee, David
+Cristina Pérez-Guillén
+Frank Techel
+Léo Viallon-Galinier
+Florian Herla
+Giacomo Ulivieri
+Antoine Turquet
+Jeffrey B. Johnson
+Giacomo Strapazzon
+Andreas Schimmel
+Leighton Watson
+Ignasi Vilajosana
+Eva Suriñach
+Emanuele Marchetti
+Jürg Schweizer
+Alec van Herwijnen
+Christoph Mitterer
+Jan-Thomas Fischer
+Pascal Haegeli
+Robin S. Matoza
+David Fee
