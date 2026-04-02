@@ -1,26 +1,17 @@
-#Machine Learning and AI
-Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
+#Avalanche Forecasting 
+Research on the physical processes governing snowpack evolution and avalanche release. This includes snow stratigraphy, weak layer formation, and stability assessment, using both process-based and empirical approaches. Mostly data based and particulary in Southern hemisphere or comparisons between forecasts in different climates
 
-#Causal Impact Estimation
-Impact evaluations of conservation interventions and their resulting biodiversity outcomes. Submissions should encompass both methodological developments and practical applications, with a particular interest in spatial impact evaluation and the use of causal machine learning (ML).
+#Machine Learning Forecasting
+Research on the use of machine learning to improve avalanche forecasting and environmental hazard prediction. This includes the development of models such as random forests and probabilistic frameworks, integration with Numerical Weather Prediction (NWP) data, and approaches for rare-event prediction. Particularly invloving snowpack simulations or anything new. 
 
-#Biodiversity Monitoring
-Research on in situ biodiversity monitoring utilizing technologies such as acoustics, environmental DNA (eDNA), and camera traps. There is a specific focus on multi-modal approaches used simultaneously to quantify integrated biodiversity patterns at large spatial scales.
+#Infrasound and Seismo-Acoustic Detection
+Research on the detection and characterization of avalanches and other mass movements using infrasound and seismic data. 
 
-#Remote Sensing of Biodiversity
-Research into the application of remote sensing for the quantification of biodiversity and ecosystems at both local and global scales. This encompasses all sensor technologies—including drones, airborne and satellite LiDAR, radar, and optical sensors (particularly hyperspectral). Topics should cover the development of new sensor technologies, the creation of novel algorithms for ecosystem monitoring, and advancements in leveraging existing sensors to derive critical biodiversity information.
+#Climate Change and avalanches
+Research exploring how climate change is altering snowpack properties and avalanche behaviour. This includes shifts toward more maritime snow conditions, changes in precipitation type and timing, and implications for hazard forecasting. 
 
-#Conservation Science
-Thought leadership and perspectives on the current state of conservation science, including evaluations of what is and is not working in global implementation and policy. This section welcomes reflections on the directions taken by conservation actors (governments, NGOs, and private entities), analyses of past successes and failures, and strategic visions for the future of the field.
+#Operational Forecasting and Decision Support
+Research focused on the practical application of avalanche forecasting in real-world contexts, such as transport corridors and ski areas. This includes early warning systems, risk-based and cost-sensitive forecasting approaches, forecast verification and calibration, and the integration of expert judgment with data-driven models. Work addressing societal and economic impacts of forecasting decisions is also encouraged.
 
-#Biodiversity Markets
-Research discussing the development and application of biodiversity markets, including offsets, biodiversity credits, voluntary markets, and compliance markets. We seek critiques of how these markets are evolving, perspectives on the prerequisites for well-functioning markets, and reviews of both existing markets and the structural conditions required for their success.
-
-#Ecological Condition
-Papers discussing the concept of ecological condition and its quantification. This includes the introduction of new datasets, critical analyses of existing data, and applications of these datasets to novel questions at global or local scales (provided local datasets are used to generate new, scalable frameworks or approaches). We also welcome discussions on how ecological condition is operationalized and how it feeds into global agreements, such as the Global Biodiversity Framework, or efforts to quantify and commoditize biodiversity.
-
-#Global Biodiversity Data
-Papers that analyze global biodiversity datasets to generate new insights into macro-ecological patterns and processes. This section also includes research detailing the development of new global biodiversity datasets or novel biodiversity indicators.
-
-#Savanna and Grassland Ecology
-Papers contributing significant information to our fundamental understanding of savanna and grassland ecology, including their critical role in the broader Earth system. Submissions should highlight the unique functioning of these ecosystems and how they are influenced by natural and anthropogenic disturbances, such as fire and herbivory.
+#Data, Datasets, and Benchmarking
+Research introducing new datasets, catalogues, or frameworks relevant to avalanche forecasting and geophysical hazard detection. This includes curated event datasets, sensor networks, and evaluation protocols that enable reproducibility and comparison between models. 
